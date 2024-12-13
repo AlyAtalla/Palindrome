@@ -10,7 +10,7 @@ This is a simple web application that checks if a given text is a palindrome.
 
 ## Screenshot
 
-![Screenshot of the Palindrome Checker](images/Plaindrome-checker.png)
+![Screenshot of the Palindrome Checker](images/Plaindrome-checkerr.png)
 
 ## Author
 
